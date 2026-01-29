@@ -121,6 +121,10 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Api Integration</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MVVM</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">MVC</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Clean Archetecture</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Git/GitHub</span>
