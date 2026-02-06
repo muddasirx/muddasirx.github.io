@@ -1,6 +1,8 @@
 // @flow strict
 
 import * as React from 'react';
+import Image from 'next/image';
+
 
 function ProjectCard({ project }) {
 
@@ -61,6 +63,13 @@ function ProjectCard({ project }) {
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
+          <div className="block h-[2em]" />
+          <div className="flex justify-center order-1 lg:order-2">
+            <span>
+              <Image src={project.image} height={200} width={300} alt="projects" />
+            </span>
+          </div>
+          <div className="block h-[2em]" />
           <div><span className="text-gray-400">{`};`}</span></div>
         </code>
       </div>

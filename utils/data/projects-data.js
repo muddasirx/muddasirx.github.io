@@ -7,6 +7,7 @@ export const projectsData = [
         role: 'Flutter Developer',
         code: '',
         demo: '',
+        image: '/codeHaven.png'
     },
     {
         id: 2,
@@ -16,6 +17,7 @@ export const projectsData = [
         role: 'Flutter Developer',
         code: '',
         demo: '',
+        image: '/sunnyD.png'
     },
     {
         id: 3,
@@ -25,6 +27,7 @@ export const projectsData = [
         code: '',
         role: 'Flutter Developer',
         demo: '',
+        image: '/echoTimer.png'
     },
     {
         id: 4,
@@ -34,6 +37,7 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Flutter Developer',
+        image: '/weCareMate.png'
     }
 ];
 

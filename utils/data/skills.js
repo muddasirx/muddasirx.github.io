@@ -1,6 +1,10 @@
 export const skillsData = [
   'Flutter',
   'Dart',
+  'GetX',
+  'Provider',
+  'Riverpod',
+  'API Integration',
   'Firebase',
   'MongoDB',
   'MySQL',
